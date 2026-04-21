@@ -27,7 +27,7 @@ The project includes a robust Data Model that establishes relationships between 
 
 🔵 **Customer Support Insight.pbix:**  The main Power BI file containing the report layout and metadata.\
 📁 **Report/StaticResources:** Contains custom JSON themes and image assets like icons8-ticket-48 and icons8-check-mark-48 used for consistent branding.\
-🔐 **SecurityBindings:** Configuration for data access and security.\
+🔐 **SecurityBindings:** Configuration for data access and security.
 
 
 🚀 **How to Use**
