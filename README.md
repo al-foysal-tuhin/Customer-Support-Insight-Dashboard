@@ -33,7 +33,7 @@ The project includes a robust Data Model that establishes relationships between 
 
 ### 🚀 **How to Use**
 
-1 **Clone the repository:** Bashgit clone https://github.com/alfoysaltuhin/Customer-Support-Insight-Dashboard.git \
+1 **Clone the repository:** Bashgit clone [https://github.com/alfoysaltuhin/Customer-Support-Insight-Dashboard.git](https://github.com/al-foysal-tuhin/Customer-Support-Insight-Dashboard/tree/main) \
 2. **Open in Power BI Desktop:** Ensure you have the version supporting the 2026 theme updates (CY26SU02).\
 3. **Refresh Data:** Connect the report to your specific data source to populate the visuals with your own support metrics.
 
