@@ -16,6 +16,10 @@ This repository contains a Power BI project designed to analyze and visualize cu
 
 🖼️ **Visual Indicators:** Utilizes intuitive iconography for quick status identification, including ticket, time, check-mark, and critical-thinking icons.
 
-**Technical Details**
-**Data Model**
+🖼️ **Dashboard Preview**
+<img width="1744" height="988" alt="Snapshot of Customer Support Dashboard" src="https://github.com/user-attachments/assets/54a9db34-335b-4356-b838-655c7b151ae0" />
+
+
+⚙️**Technical Details**
+🗂️ **Data Model**
 The project includes a robust Data Model that establishes relationships between ticket metadata, time dimensions, and priority levels. It is optimized for "Time Intelligence" to show trends over days, months, and years.
