@@ -6,7 +6,11 @@ This repository contains a Power BI project designed to analyze and visualize cu
 
 ✨ **Key Features**
 🎫 **Ticket Lifecycle Tracking:** Monitor the total volume of tickets from creation to resolution.
+
 ⏱️ **Performance Metrics:** Track key KPIs such as Average Resolution Time, First Response Time, and SLA Achievement Rates.
+
 🔥**Priority Analysis:** Insights into ticket distribution by severity, including critical thinking assessments.
+
 🎨 **Theme Integration:** Built using a custom Dark Teal Dashboard Theme (CY26SU02) for high-contrast, professional visual reporting.
+
 🖼️ **Visual Indicators:** Utilizes intuitive iconography for quick status identification, including ticket, time, check-mark, and critical-thinking icons.
