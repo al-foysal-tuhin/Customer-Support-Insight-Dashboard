@@ -20,8 +20,8 @@ This repository contains a Power BI project designed to analyze and visualize cu
 ### ⚙️**Technical Details**
 
 
-🗂️ **Data Model**
-\ The project includes a robust Data Model that establishes relationships between ticket metadata, time dimensions, and priority levels. It is optimized for "Time Intelligence" to show trends over days, months, and years.
+🗂️ **Data Model** \
+The project includes a robust Data Model that establishes relationships between ticket metadata, time dimensions, and priority levels. It is optimized for "Time Intelligence" to show trends over days, months, and years.
 
 
 📂 **File Structure**
