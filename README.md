@@ -15,3 +15,7 @@ This repository contains a Power BI project designed to analyze and visualize cu
 🎨 **Theme Integration:** Built using a custom Dark Teal Dashboard Theme (CY26SU02) for high-contrast, professional visual reporting.
 
 🖼️ **Visual Indicators:** Utilizes intuitive iconography for quick status identification, including ticket, time, check-mark, and critical-thinking icons.
+
+**Technical Details**
+**Data Model**
+The project includes a robust Data Model that establishes relationships between ticket metadata, time dimensions, and priority levels. It is optimized for "Time Intelligence" to show trends over days, months, and years.
