@@ -1,6 +1,6 @@
 # 📊  **Customer Support Insights Dashboard**
 
-## 📝 **Project Overview**\
+## 📝 **Project Overview**
 This repository contains a Power BI project designed to analyze and visualize customer support performance. The dashboard provides a comprehensive look at support ticket trends, agent efficiency, and service-level agreement (SLA) compliance to help stakeholders make data-driven decisions.
 
 ### ✨ **Key Features**
@@ -21,6 +21,7 @@ This repository contains a Power BI project designed to analyze and visualize cu
 
 
 🗂️ **Data Model**
+
 The project includes a robust Data Model that establishes relationships between ticket metadata, time dimensions, and priority levels. It is optimized for "Time Intelligence" to show trends over days, months, and years.
 
 
