@@ -6,10 +6,10 @@ This repository contains a Power BI project designed to analyze and visualize cu
 ### ✨ **Key Features**
 
 🎫 **Ticket Lifecycle Tracking:** Monitor the total volume of tickets from creation to resolution.\
-⏱️ **Performance Metrics:** Track key KPIs such as Average Resolution Time, First Response Time, and SLA Achievement Rates.\
-🔥**Priority Analysis:** Insights into ticket distribution by severity, including critical thinking assessments.\
-🎨 **Theme Integration:** Built using a custom Dark Teal Dashboard Theme (CY26SU02) for high-contrast, professional visual reporting.\
-🖼️ **Visual Indicators:** Utilizes intuitive iconography for quick status identification, including ticket, time, check-mark, and critical-thinking icons.
+⏱️ **Performance Metrics:**       Track key KPIs such as Average Resolution Time, First Response Time, and SLA Achievement Rates.\
+🔥**Priority Analysis:**          Insights into ticket distribution by severity, including critical thinking assessments.\
+🎨 **Theme Integration:**         Built using a custom Dark Teal Dashboard Theme (CY26SU02) for high-contrast, professional visual reporting.\
+🖼️ **Visual Indicators:**         Utilizes intuitive iconography for quick status identification, including ticket, time, check-mark, and critical-thinking icons.
 
 
 ### 🖼️ **Dashboard Preview**
@@ -27,15 +27,15 @@ The project includes a robust Data Model that establishes relationships between 
 📂 **File Structure**
 
 🔵 **Customer Support Insight.pbix:**  The main Power BI file containing the report layout and metadata.\
-📁 **Report/StaticResources:** Contains custom JSON themes and image assets like icons8-ticket-48 and icons8-check-mark-48 used for consistent branding.\
-🔐 **SecurityBindings:** Configuration for data access and security.
+📁 **Report/StaticResources:**         Contains custom JSON themes and image assets like icons8-ticket-48 and icons8-check-mark-48 used for consistent branding.\
+🔐 **SecurityBindings:**               Configuration for data access and security.
 
 
 ### 🚀 **How to Use**
 
-1 **Clone the repository:** Bashgit clone [https://github.com/alfoysaltuhin/Customer-Support-Insight-Dashboard.git](https://github.com/al-foysal-tuhin/Customer-Support-Insight-Dashboard/tree/main) \
+1 **Clone the repository:**      Bashgit clone [https://github.com/alfoysaltuhin/Customer-Support-Insight-Dashboard.git](https://github.com/al-foysal-tuhin/Customer-Support-Insight-Dashboard/tree/main) \
 2. **Open in Power BI Desktop:** Ensure you have the version supporting the 2026 theme updates (CY26SU02).\
-3. **Refresh Data:** Connect the report to your specific data source to populate the visuals with your own support metrics.
+3. **Refresh Data:**             Connect the report to your specific data source to populate the visuals with your own support metrics.
 
 
 ### 📈 **Future Enhancements**
